@@ -1,2 +1,2 @@
-<h1>ryu! ftw!</h1>
+<h1>use ryu!</h1>
 <p>welcome. this page is wip.</p>
