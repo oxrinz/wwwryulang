@@ -1,1 +1,19 @@
 @import 'tailwindcss';
+
+@font-face {
+    font-family: "calsans";
+    src: url('/CalSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "poppins";
+    src: url('/Poppins-Regular.ttf') format('truetype');
+}
+
+body {
+    @apply bg-black
+}
+
+* {
+    color: white
+}
